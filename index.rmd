@@ -120,7 +120,7 @@ map.feature(languages = my_circassian$language,
 ```
 
 
-### лексикa
+### лeксикa
 
 ```{r}
 lexic <- read.csv("lexic.csv", sep = "\t", na.strings = "")

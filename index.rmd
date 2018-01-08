@@ -1,5 +1,8 @@
 ---
-output: html_document
+output:
+  html_document:
+      include:
+        after_body: footer.html
 editor_options: 
   chunk_output_type: console
 ---
@@ -92,7 +95,8 @@ map.feature(languages = my_circassian$language,
             popup = my_circassian$village,
             latitude = my_circassian$latitude,
             longitude = my_circassian$longitude,
-            width = 5, stroke.radius = 12,
+            width = 5,
+            stroke.radius = 12,
             title = "альвеолярные фрик.")
 ```
 

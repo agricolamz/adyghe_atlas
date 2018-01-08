@@ -1,0 +1,132 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+## Лексика адыгских идиомов на территории РФ {.tabset .tabset-fade .tabset-pills}
+
+### о диалектаx
+
+```{r}
+adyghe <- read.csv("adyghe.csv")
+
+# create a map
+library(lingtypology)
+map.feature(languages = adyghe$language,
+            features = adyghe$languoid_C,
+            stroke.features = adyghe$language_С,
+            latitude = adyghe$latitude,
+            longitude = adyghe$longitude,
+            title = "адыгейские идиомы в РФ",
+            popup = paste(adyghe$village_C, "<br>", adyghe$languoid_C),
+            label = adyghe$village_C)
+```
+
+На данной карте изображены все селения на территории Российской Федерации, где говорят на адыгских языках. Внешняя заливка точки отображает язык, а внутреняя --- диалет. В литературе (ссылки) встречаются разные отнесения некоторых селений к тем или иным диалектам. На данной карте в некоторых случаях мы отходим от классической классификации, так как фонетический материал, собранный в рамках лингвистических экспедиций, позволяет отнести данные эти селения к другим диалектам. Данные измения касаются:
+
+* Селения Большой и Малый Псеушхо в Краснодарском крае, который традиционно относят к шапсугскому диалекту (ссылка), а экспедиционные данные свидетельствуют о его принадлежности к темиргоевскому диаелекту.
+* Говор селения Уляп в Республике Адыгея относят в разных работах то к бесленеевскому, то к кубанскому диалектам (ссылки), однако в соответствии с экспедиционными данными существуют четкие основания относить говор этого селения к бесленеевскому диалекту.
+* Традиционно существует разделение на кубано-зеленчукские (распространенные в Карачаево-Черкесской Республике) и кубанский (распространенные в Республике Адыгея) диалекты (ссылки), однако фонетические экспедиционные данные показали непровамерность данного деления, так что на карте, все эти идиомы объединены в один диалект.
+
+### aтлас
+#### Придыхательные
+В адыговедении принято выделять придыхательные и непридыхательные (преруптивные).
+```{r}
+library(DT)
+datatable(read.csv("1.dental_preruptives.csv"), rownames = FALSE, options = list(dom = 't'), class = 'cell-border stripe')
+```
+
+Увулярные придыхательные изменяли особым образом:
+  ```{r}
+library(DT)
+datatable(read.csv("2.uvular_preruptives.csv"), rownames = FALSE, options = list(dom = 't'), class = 'cell-border stripe')
+```
+
+
+Таким образом мы можем нарисовать две изоглоссы:
+  
+  неувулярные придыхательные
+```{r, fig.width=5.7, fig.height=4}
+load("my_circassian.RData")
+map.feature(languages = my_circassian$language,
+            features = my_circassian$aspirated,
+            stroke.features = my_circassian$language,
+            popup = my_circassian$village,
+            latitude = my_circassian$latitude,
+            longitude = my_circassian$longitude,
+            width = 5, stroke.radius = 12,
+            title = "придыхание в неувулярных")
+```
+
+рефлекс придыхательных увулярных
+```{r, fig.width=5.7, fig.height=4}
+map.feature(languages = my_circassian$language,
+            features = my_circassian$aspirated_uvulars,
+            stroke.features = my_circassian$language,
+            popup = my_circassian$village,
+            latitude = my_circassian$latitude,
+            longitude = my_circassian$longitude,
+            width = 5, stroke.radius = 12,
+            title = "рефлекс придых. увул.")
+```
+
+#### Система аффрикат и фрикативных
+
+Считается, что в праадыгском была сложная система аффрикат и фрикативных, однако она нигде не сохранилась и по разному отразилась в разных языках:
+  ```{r}
+library(DT)
+datatable(read.csv("3.fricatives.csv"), rownames = FALSE, options = list(dom = 't'), class = 'cell-border stripe')
+```
+
+
+Мы можем представить это на карте
+```{r, fig.width=5.7, fig.height=4}
+map.feature(languages = my_circassian$language,
+            features = my_circassian$fricatives,
+            stroke.features = my_circassian$language,
+            popup = my_circassian$village,
+            latitude = my_circassian$latitude,
+            longitude = my_circassian$longitude,
+            width = 5, stroke.radius = 12,
+            title = "альвеолярные фрик.")
+```
+
+В аффрикатах кубанские идиомы так не выделяются.
+```{r}
+library(DT)
+datatable(read.csv("4.affricates.csv"), rownames = FALSE, options = list(dom = 't'), class = 'cell-border stripe')
+```
+
+
+Мы можем представить это на карте
+```{r, fig.width=5.7, fig.height=4}
+map.feature(languages = my_circassian$language,
+            features = my_circassian$affricates,
+            stroke.features = my_circassian$language,
+            popup = my_circassian$village,
+            latitude = my_circassian$latitude,
+            longitude = my_circassian$longitude,
+            width = 5, stroke.radius = 12,
+            title = "альвеолярные фрик.")
+```
+
+
+### лексикa
+
+```{r}
+lexic <- read.csv("lexic.csv", sep = "\t", na.strings = "")
+a <- is.na(lexic[,-1])
+
+library(DT)
+datatable(lexic, rownames = FALSE,  colnames = c("перевод",	"[Loewe 1854]",	"[Люлье 1846]",	"Хаджико",	"Большой Кичмай",	"Псебе",	"Агуй-Шапсуг",	"Псейтук",	"Нешукай",	"Б. Псеушхо",	"Егерухай",	"М. Псеушхо",	"[Водождокова 1960]",	"Batı Lehçesi  [Doğ et all 2014]",	"Doğu Lehçesi [Doğ et all 2014]",	"Уляп",	"Вакожиле",	"Бесленей",	"Кургоковское",	"Ходзь",	"Блечепсин",	"Хумара",	"Инджиджишхо",	"Эрсакон",	"Жако"),
+  extensions = 'Buttons', options = list(dom = 'Bfrtip', buttons = I('colvis'))
+)
+```
+
+### об атласe
+Данный атлас является результатом работы в рамках гранта РФФИ 15-06-07434	"Электронная документация полисинтетического языка" (Ю. А. Ландер, Т. А. Архангельский, И. Г. Багирокова, Г. А. Мороз). По всем вопросам относительно атласа или лексического материала можно написать Георгию Морозу по адресу agricolamz@hse.ru

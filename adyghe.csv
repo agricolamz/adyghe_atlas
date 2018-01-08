@@ -1,0 +1,158 @@
+longitude,latitude,village,district,languoid,language,languoid_C,village_C,language_С
+40.23,45.02,Khakurinokhabl,ra,Abadzex,Adyghe,абадзехский,Хакуринохабль,адыгейский
+40.072682,44.631132,Zapadnyy,ra,Bzhedukh,Adyghe,бжедугский,Западный,адыгейский
+40.225833,44.644722,Oktyabrskiy,ra,Bzhedukh,Adyghe,бжедугский,Октябрьский,адыгейский
+38.836944,44.933889,Novobzhegokay,ra,Bzhedukh,Adyghe,бжедугский,Новобжегокай,адыгейский
+39.0025,44.994444,Kozet,ra,Bzhedukh,Adyghe,бжедугский,Козет,адыгейский
+38.894722,45.034167,Starobzhegokay,ra,Bzhedukh,Adyghe,бжедугский,Старобжегокай,адыгейский
+38.936994,45.023972,Novaya Adygeya,ra,Bzhedukh,Adyghe,бжедугский,Новая Адыгея,адыгейский
+38.992778,44.921111,Takhtamukay,ra,Bzhedukh,Adyghe,бжедугский,Тахтамукай,адыгейский
+39.066682,44.883942,Shendzhiy,ra,Bzhedukh,Adyghe,бжедугский,Шенджий,адыгейский
+39.114444,44.950833,Tugurgoy,ra,Bzhedukh,Adyghe,бжедугский,Тугургой,адыгейский
+39.467778,44.845,Assokolay,ra,Bzhedukh,Adyghe,бжедугский,Ассоколай,адыгейский
+39.457778,44.874722,Krasnoye,ra,Bzhedukh,Adyghe,бжедугский,Красное,адыгейский
+39.283333,44.866667,Vochepshiy,ra,Bzhedukh,Adyghe,бжедугский,Вочепший,адыгейский
+39.275,44.905,Novovochepshiy,ra,Bzhedukh,Adyghe,бжедугский,Нововочепший,адыгейский
+39.41,44.946389,Dzhidzhikhabl',ra,Bzhedukh,Adyghe,бжедугский,Джиджихабль,адыгейский
+39.476111,44.983056,Kunchukokhabl',ra,Bzhedukh,Adyghe,бжедугский,Кунчукохабль,адыгейский
+39.4175,44.905,Neshukay,ra,Bzhedukh,Adyghe,бжедугский,Нешукай,адыгейский
+39.367778,44.965,Tauykhabl',ra,Bzhedukh,Adyghe,бжедугский,Тауйхабль,адыгейский
+39.383056,44.883056,Ponezhukay,ra,Bzhedukh,Adyghe,бжедугский,Понежукай,адыгейский
+39.39023,44.915421,Kolos,ra,Bzhedukh,Adyghe,бжедугский,Колос,адыгейский
+39.382778,44.9225,Nachereziy,ra,Bzhedukh,Adyghe,бжедугский,Начерезий,адыгейский
+39.369444,44.941667,Pshikuykhabl',ra,Bzhedukh,Adyghe,бжедугский,Пшикуйхабль,адыгейский
+39.266111,44.887778,Pchegatlukay,ra,Bzhedukh,Adyghe,бжедугский,Пчегатлюкай,адыгейский
+39.174722,44.9025,Kazazovo,ra,Bzhedukh,Adyghe,бжедугский,Казазово,адыгейский
+39.153554,44.87391,Chetuk,ra,Bzhedukh,Adyghe,бжедугский,Четук,адыгейский
+39.566944,44.926111,Gabukay,ra,Bzhedukh,Adyghe,бжедугский,Габукай,адыгейский
+40.174167,45.065556,Pshicho,ra,Bzhedukh,Adyghe,бжедугский,Пшичо,адыгейский
+39.233689,44.892527,Gatlukay,ra,Bzhedukh,Adyghe,бжедугский,Гатлукай,адыгейский
+39.208056,44.835,Psekups,ra,Bzhedukh,Adyghe,бжедугский,Псекупс,адыгейский
+39.07,44.184722,Aguy-Shapsug,kk,Shapsug,Adyghe,шапсугский,Агуй-Шапсуг,адыгейский
+38.953618,44.28361,Psebe,kk,Shapsug,Adyghe,шапсугский,Псебе,адыгейский
+39.447133,43.968217,Tkhagapsh,kk,Shapsug,Adyghe,шапсугский,Тхагапш,адыгейский
+38.781944,44.999167,Afipsip,ra,Shapsug,Adyghe,шапсугский,Афипсип,адыгейский
+38.715489,44.987351,Panakhes,ra,Shapsug,Adyghe,шапсугский,Панахес,адыгейский
+38.706389,45.051111,Pseytuk,ra,Shapsug,Adyghe,шапсугский,Псейтук,адыгейский
+38.756111,45.045278,Khashtuk,ra,Shapsug,Adyghe,шапсугский,Хаштук,адыгейский
+41.38389,44.835,Uspenskoye,kk,Temirgoy,Adyghe,темиргоевский,Успенское,адыгейский
+39.3425,44.075833,Bolshoye Pseushkho,kk,Temirgoy,Adyghe,темиргоевский,Большое Псеушхо,адыгейский
+39.301667,44.116389,Maloye Pseushkho,kk,Temirgoy,Adyghe,темиргоевский,Малое Псеушхо,адыгейский
+40.317685,44.954747,Khachemziy,ra,Temirgoy,Adyghe,темиргоевский,Хачемзий,адыгейский
+39.861389,45.083889,Dzhambichi,ra,Temirgoy,Adyghe,темиргоевский,Джамбичи,адыгейский
+39.4975,45.068889,Adamiy,ra,Temirgoy,Adyghe,темиргоевский,Адамий,адыгейский
+40.392222,44.9975,Egerukhay,ra,Temirgoy,Adyghe,темиргоевский,Егерухай,адыгейский
+38.988056,44.865,Natukhay,ra,Temirgoy,Adyghe,темиргоевский,Натухай,адыгейский
+40.311389,44.993333,Dzherokay,ra,Temirgoy,Adyghe,темиргоевский,Джерокай,адыгейский
+40.217222,45.011389,Mamkheg,ra,Temirgoy,Adyghe,темиргоевский,Мамхег,адыгейский
+40.183056,45.046111,Kabekhabl',ra,Temirgoy,Adyghe,темиргоевский,Кабехабль,адыгейский
+40.110278,45.092222,Pshizov,ra,Temirgoy,Adyghe,темиргоевский,Пшизов,адыгейский
+40.188611,45.072222,Khatazhukay,ra,Temirgoy,Adyghe,темиргоевский,Хатажукай,адыгейский
+39.36232,44.00941,Lygotkh,kk,Xakuch,Adyghe,хакучинские,Лыготх,адыгейский
+39.335326,44.009397,Khadzhiko,kk,Xakuch,Adyghe,хакучинские,Хаджико,адыгейский
+39.356639,44.009389,Kalezh,kk,Xakuch,Adyghe,хакучинские,Калеж,адыгейский
+39.500981,43.822786,Malyy Kichmay,kk,Xakuch,Adyghe,хакучинские,Малый Кичмай,адыгейский
+39.508069,43.833917,Bolshoy Kichmay,kk,Xakuch,Adyghe,хакучинские,Большой Кичмай,адыгейский
+43.1114348,43.8229374,Dzhenal,kbr,Baksan,Kabardian,баксанский,Дженаль,кабардинский
+44.3636557,43.4855758,Inarkoy,kbr,Baksan,Kabardian,баксанский,Инаркой,кабардинский
+43.7156896,43.7574704,Psynshoko,kbr,Baksan,Kabardian,баксанский,Псыншоко,кабардинский
+43.93194,43.52444,Nizhny Cherek,kbr,Baksan,Kabardian,баксанский,Нижний Черек,кабардинский
+43.9127396,43.3423158,Anzorey,kbr,Baksan,Kabardian,баксанский,Анзорей,кабардинский
+44.2119773,43.4535606,Beloglinskoe,kbr,Baksan,Kabardian,баксанский,Белоглинское,кабардинский
+43.7706143,43.8034456,Karagach,kbr,Baksan,Kabardian,баксанский,Карагач,кабардинский
+43.1074819,43.8788349,Shordakovo,kbr,Baksan,Kabardian,баксанский,Шордаково,кабардинский
+43.5220851,43.0925184,Psygansu,kbr,Baksan,Kabardian,баксанский,Псыгансу,кабардинский
+43.8943217,43.5405887,Kakhun,kbr,Baksan,Kabardian,баксанский,Кахун,кабардинский
+43.8366936,43.4662834,Stary Cherek,kbr,Baksan,Kabardian,баксанский,Старый Черек,кабардинский
+43.1932675,43.7403259,Sarmakovo,kbr,Baksan,Kabardian,баксанский,Сармаково,кабардинский
+43.3469916,43.6101972,Zayukovo,kbr,Baksan,Kabardian,баксанский,Заюково,кабардинский
+43.2600149,43.7768461,Kamlyukovo,kbr,Baksan,Kabardian,баксанский,Камлюково,кабардинский
+43.8850094,43.7225969,Altud,kbr,Baksan,Kabardian,баксанский,Алтуд,кабардинский
+43.4982674,43.6708678,Dygulybgey,kbr,Baksan,Kabardian,баксанский,Дыгулыбгей,кабардинский
+43.6079187,43.8366461,Psykhurey,kbr,Baksan,Kabardian,баксанский,Псыхурей,кабардинский
+43.2514048,43.8602847,Psynadakha,kbr,Baksan,Kabardian,баксанский,Псынадаха,кабардинский
+43.1531165,43.835631,Zalukodes,kbr,Baksan,Kabardian,баксанский,Залукодес,кабардинский
+43.9045102,43.4118144,Argudan,kbr,Baksan,Kabardian,баксанский,Аргудан,кабардинский
+43.6384818,43.6489847,Kishpek,kbr,Baksan,Kabardian,баксанский,Кишпек,кабардинский
+43.4203399,43.6612534,Islamey,kbr,Baksan,Kabardian,баксанский,Исламей,кабардинский
+43.1460561,43.8022258,Sovkhoznoe,kbr,Baksan,Kabardian,баксанский,Совхозное,кабардинский
+44.26917,43.63194,Maly Terek,kbr,Baksan,Kabardian,баксанский,Maly Terek,кабардинский
+43.0370284,43.7341489,Kamennomostskoe,kbr,Baksan,Kabardian,баксанский,Каменномостское,кабардинский
+44.2133042,43.6979041,Urozhaynoe,kbr,Baksan,Kabardian,баксанский,Урожайное,кабардинский
+43.4030838,43.6464595,Atazhukino,kbr,Baksan,Kabardian,баксанский,Атажукино,кабардинский
+43.3510112,43.7441546,Nizhny Kurkuzhin,kbr,Baksan,Kabardian,баксанский,Нижний Куркужин,кабардинский
+43.4442485,43.7773855,Kuba-Taba,kbr,Baksan,Kabardian,баксанский,Куба-Таба,кабардинский
+43.66667,43.68528,Baksanenok,kbr,Baksan,Kabardian,баксанский,Баксаненок,кабардинский
+43.2767476,43.6937577,Verkhniy Kurkuzhin,kbr,Baksan,Kabardian,баксанский,Верхний Куркужин,кабардинский
+43.7279879,43.3480839,Zaragizh,kbr,Baksan,Kabardian,баксанский,Зарагиж,кабардинский
+43.437182,43.5577039,Lechinkay,kbr,Baksan,Kabardian,баксанский,Лечинкай,кабардинский
+43.7589165,43.5780738,Germenchik,kbr,Baksan,Kabardian,баксанский,Герменчик,кабардинский
+43.2063942,43.8416125,Zolskoye,kbr,Baksan,Kabardian,баксанский,Зольское,кабардинский
+43.9103428,43.3506587,Vtoroy Lesken,kbr,Baksan,Kabardian,баксанский,Второй Лескин,кабардинский
+43.7185553,43.5039956,Nartan,kbr,Baksan,Kabardian,баксанский,Нартан,кабардинский
+43.7422799,43.3933553,Aushiger,kbr,Baksan,Kabardian,баксанский,Аушигер,кабардинский
+43.9317439,43.5385977,Psynabo,kbr,Baksan,Kabardian,баксанский,Псынабо,кабардинский
+43.7606476,43.4781181,Urvan,kbr,Baksan,Kabardian,баксанский,Урван,кабардинский
+44.0926551,43.6157546,Dzhulat,kbr,Baksan,Kabardian,баксанский,Джулат,кабардинский
+44.0255211,43.3434394,Khatuey,kbr,Baksan,Kabardian,баксанский,Хатуей,кабардинский
+43.6106262,43.6055277,Chegem Vtoroy,kbr,Baksan,Kabardian,баксанский,Чегем Второй,кабардинский
+44.025223,43.6655922,Oktyabrskoe,kbr,Baksan,Kabardian,баксанский,Октябрьское,кабардинский
+43.5216499,43.722931,Psychokh,kbr,Baksan,Kabardian,баксанский,Псычох,кабардинский
+43.5178739,43.6741209,Baksan,kbr,Baksan,Kabardian,баксанский,Баксан,кабардинский
+44.1436978,43.6295975,Opytnoe,kbr,Baksan,Kabardian,баксанский,Опытное,кабардинский
+43.876519,43.3178415,Erokko,kbr,Baksan,Kabardian,баксанский,Ерокко,кабардинский
+44.2144826,43.5059194,Tambovskoe,kbr,Baksan,Kabardian,баксанский,Тамбовское,кабардинский
+43.6027046,43.5265677,Shalushka,kbr,Baksan,Kabardian,баксанский,Шалушка,кабардинский
+43.6537882,43.2602459,Zhemtala,kbr,Baksan,Kabardian,баксанский,Жемтала,кабардинский
+44.3515401,43.6147962,Novo-Khamidie,kbr,Baksan,Kabardian,баксанский,Ново-Хамидие,кабардинский
+44.123883,43.4778111,Internatsionalnoe,kbr,Baksan,Kabardian,баксанский,Интернациональное,кабардинский
+43.6042641,43.5612695,Chegem,kbr,Baksan,Kabardian,баксанский,Чегем,кабардинский
+43.8415817,43.5678968,Morzokh,kbr,Baksan,Kabardian,баксанский,Морзох,кабардинский
+43.7974629,43.5528175,Shitkhala,kbr,Baksan,Kabardian,баксанский,Шитхала,кабардинский
+44.09972,43.55417,Psynashkho,kbr,Baksan,Kabardian,баксанский,Псынашхо,кабардинский
+43.884179,43.5665554,Nartkala,kbr,Baksan,Kabardian,баксанский,Нарткала,кабардинский
+43.83417,43.60694,Chernaya Rechka,kbr,Baksan,Kabardian,баксанский,Черная речка,кабардинский
+44.12444,43.63722,Krasnoarmeyskoe,kbr,Baksan,Kabardian,баксанский,Красноармейская,кабардинский
+44.155556,43.649167,Shikuley,kbr,Baksan,Kabardian,баксанский,Шикулей,кабардинский
+43.9948064,43.6033238,Psykod,kbr,Baksan,Kabardian,баксанский,Псыкод,кабардинский
+43.1949731,43.5573675,Zhankhoteko,kbr,Baksan,Kabardian,баксанский,Жанхотеко,кабардинский
+43.7380201,43.2177484,Verkhny Lesken,kbr,Baksan,Kabardian,баксанский,Верхний Лескен,кабардинский
+44.1305288,43.6197557,Kuyan,kbr,Baksan,Kabardian,баксанский,Куян,кабардинский
+43.6393754,43.7987115,Kremenchug-Konstantinovskoe,kbr,Baksan,Kabardian,баксанский,Кременчуг-Константиновское,кабардинский
+42.9074849,43.380478,Tyrnyauz,kbr,Baksan,Kabardian,баксанский,Тырныауз,кабардинский
+43.81722,43.33389,Progress,stv,Baksan,Kabardian,баксанский,Прогресс,кабардинский
+41.742693,44.300777,Vako-Zhile,kch,Besleney,Kabardian,бесленеевский,Вако-Жиле,кабардинский
+41.741389,44.246111,Besleney,kch,Besleney,Kabardian,бесленеевский,Бесленей,кабардинский
+41.335,44.86152,Konokovo,kk,Besleney,Kabardian,бесленеевский,Коноково,кабардинский
+41.486111,44.839167,Kurgokovskiy,kk,Besleney,Kabardian,бесленеевский,Кургоковское,кабардинский
+39.946389,45.054167,Ulyap,ra,Besleney,Kabardian,бесленеевский,Уляп,кабардинский
+41.764098,44.042366,Khabez,kch,Kuban,Kabardian,кубанский,Хабез,кабардинский
+41.899453,44.221558,Novokhumarinskiy,kch,Kuban,Kabardian,кубанский,Новохумаринский,кабардинский
+41.900047,44.253272,Abazakt,kch,Kuban,Kabardian,кубанский,Абазакт,кабардинский
+41.87764,44.206622,Psauchye-Dakhe,kch,Kuban,Kabardian,кубанский,Псауче-Дахе,кабардинский
+41.853875,44.139951,Kosh-Khabl',kch,Kuban,Kabardian,кубанский,Кош-Хабль,кабардинский
+41.935,44.400833,Malyy Zelenchuk,kch,Kuban,Kabardian,кубанский,Малый Зеленчук,кабардинский
+41.828056,44.115278,Inzhichishkho,kch,Kuban,Kabardian,кубанский,Инжичишхо,кабардинский
+41.828056,44.115278,Zeyuko,kch,Kuban,Kabardian,кубанский,Зеюко,кабардинский
+41.743847,43.959349,Zhako,kch,Kuban,Kabardian,кубанский,Жако,кабардинский
+41.738889,43.988333,Ali-Berdukovskiy,kch,Kuban,Kabardian,кубанский,Али-Бердуковский,кабардинский
+41.763092,44.431293,Ersakon,kch,Kuban,Kabardian,кубанский,Эрсакон,кабардинский
+41.913472,43.863056,Khumara,kch,Kuban,Kabardian,кубанский,Хумара,кабардинский
+41.801334,44.350776,Baralki,kch,Kuban,Kabardian,кубанский,Баралки,кабардинский
+41.934722,44.331111,Adyge-Khabl,kch,Kuban,Kabardian,кубанский,Адыге-Хабль,кабардинский
+40.501667,44.821667,Blechepsin,ra,Kuban,Kabardian,кубанский,Блечепсин,кабардинский
+40.710278,44.519722,Khodz',ra,Kuban,Kabardian,кубанский,Ходзь,кабардинский
+40.483,44.9,Koshekhabl,ra,Kuban,Kabardian,кубанский,Кошехабль,кабардинский
+43.1721222,43.9468945,Etoko,kbr,Malkin,Kabardian,малкинский,Этоко,кабардинский
+43.2292012,43.8512293,Batekh,kbr,Malkin,Kabardian,малкинский,Батех,кабардинский
+43.3276187,43.7999498,Malka,kbr,Malkin,Kabardian,малкинский,Малка,кабардинский
+43.7,44.2125,Urazhaynoe,kbr,Terek,Kabardian,терские,Уражайное,кабардинский
+44.4137575,43.5434888,Nizhny Kurp,kbr,Terek,Kabardian,терские,Нижний Курп,кабардинский
+44.1908915,43.3807323,Planovskoe,kbr,Terek,Kabardian,терские,Плановское,кабардинский
+44.2423294,43.47468,Verkhny Akbash,kbr,Terek,Kabardian,терские,Верхний Акбаш,кабардинский
+44.3740591,43.6710761,Khamidie,kbr,Terek,Kabardian,терские,Хамидие,кабардинский
+44.2973614,43.6727795,Terekskoe,kbr,Terek,Kabardian,терские,Терекское,кабардинский
+44.1403481,43.5701144,Arik,kbr,Terek,Kabardian,терские,Арик,кабардинский
+44.209298,43.5254017,Nizhny Akbash,kbr,Terek,Kabardian,терские,Нижний Акбаш,кабардинский
+44.3730212,43.4677348,Verkhny Kurp,kbr,Terek,Kabardian,терские,Верхний Курп,кабардинский
+44.1512948,43.4991098,Deyskoe,kbr,Terek,Kabardian,терские,Дейское,кабардинский
